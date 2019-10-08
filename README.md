@@ -1,5 +1,6 @@
 # Resumes
 Let's make an ocean of resume samples.
+## ⭐ Star this repository if you really like this approach of encouraging first-time-contributors :)
 
 ## Aim
 
@@ -57,3 +58,5 @@ This is another one in HTML
 - Create a pull request, and wait for Pull Request to get merged.
 
 Let's Do It!
+
+Don't forget to add your Name and GitHub user profile to `CONTRIBUTORS.md`
