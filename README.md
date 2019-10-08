@@ -1,6 +1,6 @@
 # Resumes
 Let's make an ocean of resume samples.
-## ⭐ Star this repository if you really like this approach of encouraging first-time-contributors :)
+## ⭐ Star this repository ;)
 
 ## Aim
 
